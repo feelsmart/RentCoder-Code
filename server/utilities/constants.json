@@ -1,0 +1,12 @@
+{
+	"REGISTER_RENTCODER" 		: "registerrentcoder",
+	"URL_ACTIVATE_ACCOUNT" 		: "activateUser",
+	"RENTCODER_NOTIFICATION" 	: "rentcodernotification",
+	"URL_RESET_PASSWORD" 		: "resetPassword",
+	"PATIENT_SUMMARY_NOTES"     : "patientSummaryNotes",
+	"REPLY_INBOX_MAILS"         : "replyInboxMails",
+    "USER_AUTH_TOKEN": "e7880b9a6ec359ccd082f2aaa5d03bd8",
+    "APPLICATION_SID": "AP446c1e130a968c7d25128f65ba879e92",
+	"ATTEMPT_INC_BY": 1,
+	"FAILED_ATTEMPTS":5
+}

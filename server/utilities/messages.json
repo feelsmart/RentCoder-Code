@@ -1,0 +1,5 @@
+{
+     "TOKEN_EXPIRED": "your token was expired ",
+      "NO_TOKEN": "you don't have token to perform this operation",
+      "PASSWORD_MATCH_VALIDATION":" passwords doesnt matched"
+}

@@ -1,0 +1,181 @@
+[2017-09-04 13:49:11.847] [INFO] Careplan - server up and running at 5050 port
+[2017-09-04 13:49:11.859] [INFO] Careplan - process.env.NODE_ENV : development
+[2017-09-04 13:51:13.236] [INFO] Careplan - server up and running at 5050 port
+[2017-09-04 13:51:13.305] [INFO] Careplan - process.env.NODE_ENV : development
+[2017-09-04 13:51:49.474] [INFO] Careplan - server up and running at 5050 port
+[2017-09-04 13:51:49.495] [INFO] Careplan - process.env.NODE_ENV : development
+[2017-09-04 18:29:32.207] [INFO] Careplan - server up and running at 5050 port
+[2017-09-04 18:29:32.209] [INFO] Careplan - process.env.NODE_ENV : development
+[2017-09-06 13:41:06.553] [INFO] Careplan - server up and running at 5050 port
+[2017-09-06 13:41:06.556] [INFO] Careplan - process.env.NODE_ENV : development
+[2017-09-06 13:41:21.067] [INFO] Careplan - Requested API: GET - https://localhost:5050/favicon.ico
+[2017-09-06 13:46:29.469] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular.min.js.map
+[2017-09-06 13:46:29.471] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-route.min.js.map
+[2017-09-06 13:46:29.474] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-resource.min.js.map
+[2017-09-06 13:46:29.475] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-animate.min.js.map
+[2017-09-06 13:46:29.478] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-aria.min.js.map
+[2017-09-06 13:46:29.479] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-messages.min.js.map
+[2017-09-06 13:46:29.480] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-idle.map
+[2017-09-06 13:46:29.482] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/controllers/admin/angular-block-ui.js.map
+[2017-09-06 13:46:29.873] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/bootstrap.min.css.map
+[2017-09-06 13:46:29.876] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/angular-block-ui.css.map
+[2017-09-06 13:51:17.847] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/bootstrap.min.css.map
+[2017-09-06 13:51:17.848] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/angular-block-ui.css.map
+[2017-09-06 13:51:18.110] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular.min.js.map
+[2017-09-06 13:51:18.116] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-route.min.js.map
+[2017-09-06 13:51:18.119] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-resource.min.js.map
+[2017-09-06 13:51:18.124] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-animate.min.js.map
+[2017-09-06 13:51:18.126] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-aria.min.js.map
+[2017-09-06 13:51:18.129] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-messages.min.js.map
+[2017-09-06 13:51:18.144] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-idle.map
+[2017-09-06 13:51:18.145] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/controllers/admin/angular-block-ui.js.map
+[2017-09-06 13:51:43.465] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular.min.js.map
+[2017-09-06 13:51:43.469] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-route.min.js.map
+[2017-09-06 13:51:43.474] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-resource.min.js.map
+[2017-09-06 13:51:43.477] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-animate.min.js.map
+[2017-09-06 13:51:43.478] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-aria.min.js.map
+[2017-09-06 13:51:43.480] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-messages.min.js.map
+[2017-09-06 13:51:43.482] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-idle.map
+[2017-09-06 13:51:43.494] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/controllers/admin/angular-block-ui.js.map
+[2017-09-06 13:51:43.613] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/bootstrap.min.css.map
+[2017-09-06 13:51:43.617] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/angular-block-ui.css.map
+[2017-09-06 13:53:09.066] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular.min.js.map
+[2017-09-06 13:53:09.070] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-route.min.js.map
+[2017-09-06 13:53:09.078] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-resource.min.js.map
+[2017-09-06 13:53:09.083] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-animate.min.js.map
+[2017-09-06 13:53:09.084] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-aria.min.js.map
+[2017-09-06 13:53:09.088] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-messages.min.js.map
+[2017-09-06 13:53:09.092] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-idle.map
+[2017-09-06 13:53:09.095] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/bootstrap.min.css.map
+[2017-09-06 13:53:09.109] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/angular-block-ui.css.map
+[2017-09-06 13:53:09.514] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/controllers/admin/angular-block-ui.js.map
+[2017-09-06 14:01:29.553] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular.min.js.map
+[2017-09-06 14:01:29.556] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-route.min.js.map
+[2017-09-06 14:01:29.558] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-resource.min.js.map
+[2017-09-06 14:01:29.559] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-animate.min.js.map
+[2017-09-06 14:01:29.561] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-aria.min.js.map
+[2017-09-06 14:01:29.565] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-messages.min.js.map
+[2017-09-06 14:01:29.566] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-idle.map
+[2017-09-06 14:01:29.574] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/controllers/admin/angular-block-ui.js.map
+[2017-09-06 14:01:29.900] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/bootstrap.min.css.map
+[2017-09-06 14:01:29.905] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/angular-block-ui.css.map
+[2017-09-06 14:04:43.784] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular.min.js.map
+[2017-09-06 14:04:43.793] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-route.min.js.map
+[2017-09-06 14:04:43.794] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-resource.min.js.map
+[2017-09-06 14:04:43.796] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-animate.min.js.map
+[2017-09-06 14:04:43.800] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-aria.min.js.map
+[2017-09-06 14:04:43.802] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-messages.min.js.map
+[2017-09-06 14:04:43.805] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-idle.map
+[2017-09-06 14:04:43.853] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/controllers/admin/angular-block-ui.js.map
+[2017-09-06 14:04:43.857] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/bootstrap.min.css.map
+[2017-09-06 14:04:43.862] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/angular-block-ui.css.map
+[2017-09-06 14:05:16.463] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular.min.js.map
+[2017-09-06 14:05:16.468] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-route.min.js.map
+[2017-09-06 14:05:16.469] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-resource.min.js.map
+[2017-09-06 14:05:16.472] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-animate.min.js.map
+[2017-09-06 14:05:16.475] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-aria.min.js.map
+[2017-09-06 14:05:16.478] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-messages.min.js.map
+[2017-09-06 14:05:16.481] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-idle.map
+[2017-09-06 14:05:16.489] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/controllers/admin/angular-block-ui.js.map
+[2017-09-06 14:05:16.730] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/bootstrap.min.css.map
+[2017-09-06 14:05:16.735] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/angular-block-ui.css.map
+[2017-09-06 14:05:44.483] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular.min.js.map
+[2017-09-06 14:05:44.488] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-route.min.js.map
+[2017-09-06 14:05:44.490] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-resource.min.js.map
+[2017-09-06 14:05:44.492] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-animate.min.js.map
+[2017-09-06 14:05:44.498] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-aria.min.js.map
+[2017-09-06 14:05:44.499] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-messages.min.js.map
+[2017-09-06 14:05:44.500] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-idle.map
+[2017-09-06 14:05:44.512] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/controllers/admin/angular-block-ui.js.map
+[2017-09-06 14:05:44.785] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/bootstrap.min.css.map
+[2017-09-06 14:05:44.787] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/angular-block-ui.css.map
+[2017-09-06 14:06:59.685] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/bootstrap.min.css.map
+[2017-09-06 14:06:59.693] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/angular-block-ui.css.map
+[2017-09-06 14:07:00.041] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular.min.js.map
+[2017-09-06 14:07:00.056] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-route.min.js.map
+[2017-09-06 14:07:00.058] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-resource.min.js.map
+[2017-09-06 14:07:00.065] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-animate.min.js.map
+[2017-09-06 14:07:00.066] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-aria.min.js.map
+[2017-09-06 14:07:00.069] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-messages.min.js.map
+[2017-09-06 14:07:00.072] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-idle.map
+[2017-09-06 14:07:00.103] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/controllers/admin/angular-block-ui.js.map
+[2017-09-06 14:09:14.082] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular.min.js.map
+[2017-09-06 14:09:14.086] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-route.min.js.map
+[2017-09-06 14:09:14.089] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-resource.min.js.map
+[2017-09-06 14:09:14.090] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-animate.min.js.map
+[2017-09-06 14:09:14.092] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-aria.min.js.map
+[2017-09-06 14:09:14.097] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-messages.min.js.map
+[2017-09-06 14:09:14.101] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-idle.map
+[2017-09-06 14:09:14.124] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/controllers/admin/angular-block-ui.js.map
+[2017-09-06 14:09:14.139] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/bootstrap.min.css.map
+[2017-09-06 14:09:14.149] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/angular-block-ui.css.map
+[2017-09-06 14:35:08.393] [INFO] Careplan - Requested API: POST - https://localhost:5050/api/employer/info
+[2017-09-06 14:35:08.394] [TRACE] Careplan - Begin createEmployerInfo
+[2017-09-06 14:35:16.786] [ERROR] Careplan - true
+[2017-09-06 14:35:16.787] [ERROR] Careplan - true
+[2017-09-06 14:35:16.787] [TRACE] Careplan - End createUserAccount
+[2017-09-06 14:40:37.516] [INFO] Careplan - Requested API: POST - https://localhost:5050/api/employer/info
+[2017-09-06 14:40:37.517] [TRACE] Careplan - Begin createEmployerInfo
+[2017-09-06 14:40:41.132] [ERROR] Careplan - true
+[2017-09-06 14:40:41.133] [ERROR] Careplan - true
+[2017-09-06 14:40:41.134] [TRACE] Careplan - End createUserAccount
+[2017-09-06 14:42:03.030] [INFO] Careplan - Requested API: POST - https://localhost:5050/api/employer/info
+[2017-09-06 14:42:03.031] [TRACE] Careplan - Begin createEmployerInfo
+[2017-09-06 14:42:05.101] [ERROR] Careplan - true
+[2017-09-06 14:42:05.102] [ERROR] Careplan - true
+[2017-09-06 14:42:05.102] [TRACE] Careplan - End createUserAccount
+[2017-09-06 14:46:40.347] [INFO] Careplan - Requested API: POST - https://localhost:5050/api/employer/info
+[2017-09-06 14:46:40.348] [TRACE] Careplan - Begin createEmployerInfo
+[2017-09-06 14:46:42.519] [ERROR] Careplan - true
+[2017-09-06 14:46:42.520] [ERROR] Careplan - true
+[2017-09-06 14:46:42.520] [TRACE] Careplan - End createUserAccount
+[2017-09-06 14:47:16.528] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular.min.js.map
+[2017-09-06 14:47:16.531] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-route.min.js.map
+[2017-09-06 14:47:16.536] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-animate.min.js.map
+[2017-09-06 14:47:16.538] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-resource.min.js.map
+[2017-09-06 14:47:16.540] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-aria.min.js.map
+[2017-09-06 14:47:16.545] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-messages.min.js.map
+[2017-09-06 14:47:16.547] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/libraries/angular-idle.map
+[2017-09-06 14:47:16.557] [INFO] Careplan - Requested API: GET - https://localhost:5050/js/controllers/admin/angular-block-ui.js.map
+[2017-09-06 14:47:16.647] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/bootstrap.min.css.map
+[2017-09-06 14:47:16.650] [INFO] Careplan - Requested API: GET - https://localhost:5050/css/angular-block-ui.css.map
+[2017-09-06 14:47:52.853] [INFO] Careplan - Requested API: GET - https://localhost:5050/api/employer/info
+[2017-09-06 14:49:14.047] [INFO] Careplan - Requested API: POST - https://localhost:5050/api/employer/info
+[2017-09-06 14:49:14.048] [TRACE] Careplan - Begin createEmployerInfo
+[2017-09-06 14:55:45.412] [INFO] Careplan - server up and running at 5050 port
+[2017-09-06 14:55:45.416] [INFO] Careplan - process.env.NODE_ENV : development
+[2017-09-06 14:56:11.809] [INFO] Careplan - Requested API: POST - https://localhost:5050/api/employer/info
+[2017-09-06 14:56:11.810] [TRACE] Careplan - Begin createEmployerInfo
+[2017-09-06 14:56:37.983] [TRACE] Careplan - End createEmployerInfo
+[2017-09-06 14:59:51.445] [INFO] Careplan - Requested API: POST - https://localhost:5050/api/employer/info
+[2017-09-06 14:59:51.446] [TRACE] Careplan - Begin createEmployerInfo
+[2017-09-06 15:00:06.353] [TRACE] Careplan - End createEmployerInfo
+[2017-09-06 15:00:37.424] [INFO] Careplan - Requested API: POST - https://localhost:5050/api/employer/info
+[2017-09-06 15:00:37.424] [TRACE] Careplan - Begin createEmployerInfo
+[2017-09-06 15:00:39.923] [TRACE] Careplan - End createEmployerInfo
+[2017-09-06 15:03:08.768] [INFO] Careplan - Requested API: POST - https://localhost:5050/api/employer/info
+[2017-09-06 15:03:08.769] [TRACE] Careplan - Begin createEmployerInfo
+[2017-09-06 15:03:12.095] [TRACE] Careplan - End createEmployerInfo
+[2017-09-06 15:04:46.544] [INFO] Careplan - Requested API: POST - https://localhost:5050/api/employer/info
+[2017-09-06 15:04:46.545] [TRACE] Careplan - Begin createEmployerInfo
+[2017-09-06 15:04:49.160] [TRACE] Careplan - End createEmployerInfo
+[2017-09-11 18:27:30.714] [INFO] Careplan - server up and running at 5050 port
+[2017-09-11 18:27:30.717] [INFO] Careplan - process.env.NODE_ENV : development
+[2017-09-11 18:28:38.710] [INFO] Careplan - Requested API: GET - https://localhost:5050/favicon.ico
+[2017-09-13 08:01:07.181] [INFO] Careplan - server up and running at 5050 port
+[2017-09-13 08:01:07.184] [INFO] Careplan - process.env.NODE_ENV : development
+[2017-09-13 08:01:09.306] [INFO] Careplan - Requested API: GET - https://localhost:5050/favicon.ico
+[2017-09-13 08:05:32.041] [INFO] Careplan - server up and running at 5050 port
+[2017-09-13 08:05:32.041] [INFO] Careplan - process.env.NODE_ENV : development
+[2017-09-13 08:14:45.153] [INFO] Careplan - server up and running at 5050 port
+[2017-09-13 08:14:45.153] [INFO] Careplan - process.env.NODE_ENV : development
+[2017-09-13 08:14:53.204] [INFO] Careplan - server up and running at 5050 port
+[2017-09-13 08:14:53.204] [INFO] Careplan - process.env.NODE_ENV : development
+[2017-09-13 08:16:36.880] [INFO] Careplan - server up and running at 5050 port
+[2017-09-13 08:16:36.880] [INFO] Careplan - process.env.NODE_ENV : development
+[2017-09-13 16:07:50.688] [INFO] Careplan - server up and running at 5050 port
+[2017-09-13 16:07:50.699] [INFO] Careplan - process.env.NODE_ENV : undefined
+[2017-09-13 19:35:40.340] [INFO] Careplan - server up and running at 5050 port
+[2017-09-13 19:35:40.343] [INFO] Careplan - process.env.NODE_ENV : undefined
+[2017-09-13 22:22:48.978] [INFO] Careplan - server up and running at 5050 port
+[2017-09-13 22:22:48.984] [INFO] Careplan - process.env.NODE_ENV : undefined

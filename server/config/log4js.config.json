@@ -1,0 +1,13 @@
+{
+	"appenders": [
+		{
+			"type": "console"			
+		},
+		{
+			"type": "file",
+			"filename": "./logs/careplan.log",
+			"maxLogSize": 204800,
+			"backups": 100
+		}
+	]
+}

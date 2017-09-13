@@ -1,0 +1,17 @@
+{
+    "HOME": {
+        "HEADER": "./client/views/home/header.html",
+        "MENU": "./client/views/home/menu.html",
+        "FOOTER": "./client/views/home/footer.html"    
+    },
+    "ADMIN": {
+        "HEADER": "./client/views/admin/header.html",
+        "MENU": "./client/views/admin/menu.html",
+        "FOOTER": "./client/views/common/footer.html"
+    },
+    "DOCTOR": {
+        "HEADER": "./client/views/doctor/header.html",
+        "MENU": "./client/views/doctor/menu.html",
+        "FOOTER": "./client/views/common/footer.html"
+    }
+}

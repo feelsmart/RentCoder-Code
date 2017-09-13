@@ -1,0 +1,24 @@
+{
+  "development": {
+   "username": "root",
+    "password": "123456aA",
+    "database": "oathtech",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "staging": {
+    "username": "root",
+    "password": "123456aA",
+    "database": "oathtech",
+    "host": "202.153.39.94",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "oathtech",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
+    

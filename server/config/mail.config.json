@@ -1,0 +1,17 @@
+{
+	"MAIL_SERVER_CONFIG": {
+		"KEY": "sendgrid_key.txt"
+	},
+	"MAIL_TEMPLATES": {
+		"ACTIVATE_ACCOUNT": {
+			"SUBJECT": "Received Enquiry from </>RentCoder",
+			"FROM": "support@rentcoder.com",
+			"HTML": "./server/templates/register.rentcoder.html"
+		},
+		"MAIL_NOTIFICATION": {
+			"SUBJECT": "Received Enquiry for </>RentCoder",
+			"TO": "support@rentcoder.com",
+			"HTML": "./server/templates/mailto.suppoert.html"
+		}
+	} 
+}

@@ -1,0 +1,12 @@
+{
+    "BASE_URI": "https://localhost:5050",
+    "PORT": 5050,
+    "SECRET_KEY_JWT": "careplankeyjwt",
+    "QUERY_REFERENCE": "/utilities/mysql.queries.json",
+    "SECRET_KEY_PASSWORD": "careplankeypassword",
+    "TOKEN_EXPIRE": 60000,
+    "ADMIN_EMAIL": "suresh.rachabandi@adroitent.com",
+    "CAREPLAN_LOGO": "/images/main-logo.png",
+    "NEW_MAIL": "/images/mail-open.jpg",
+    "FORGOT_PASSWORD": "/images/forgot-password.jpg"
+}

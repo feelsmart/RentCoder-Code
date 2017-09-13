@@ -1,0 +1,90 @@
+
+<div class="container-fluid">
+<div class="container">
+  <div style="margin-bottom:20px;"> <img  class="center-img" src="images/logo1.png" alt="" /></div>
+    <div style="text-align: center;color: #fff" >
+      <h2>"If you want to go fast, go alone. If you want to go far, work with us."</h2>
+     <!-- <p>ertyuiopertyuioertyuiopretyui</p>-->
+      </div>
+   
+  <div class="reg-page row">
+  
+        <form role="form">
+          <fieldset>
+             <!--name validation-->
+             <div class="row">
+             <div class="col-md-6">
+             <div class="md-form"> <i class="fa fa-user prefix"></i>
+              <input type="text" id="emplName" name="Name" class="form-control validate"  data-ng-model="employer.Name" ng-minlength="3" ng-maxlength="50" maxlength="50">
+              <label for="form9" data-error="" data-success="">Org/Name <span>*</span></label>
+            </div>
+             </div>
+            <!--Technology validation-->
+            <div class="col-md-6">
+             <div class="md-form"> <i class="fa fa-certificate prefix" ></i>
+              <input type="text" id="emplTechnology" class="form-control validate" data-ng-model="employer.Technologies" ng-minlength="3" ng-maxlength="100" maxlength="100">
+              <label for="form9" data-error="" data-success="">Technology <span>*</span></label>
+            </div>
+            </div>
+             </div>
+             <!--Experience validation-->
+              <div class="row">
+             <div class="col-md-6">
+             <div class="md-form"> <i class="fa fa-briefcase prefix"></i>
+              <input type="text" id="emplExperience" name="Experience" class="form-control validate" data-ng-model="employer.Experience" ng-minlength="1" ng-maxlength="4" maxlength="4">
+              <label for="form9" data-error="" data-success="">Experience <span>*</span></label>
+            </div>
+             </div>
+             <!--name validation-->
+             <div class="col-md-6">
+             <div class="md-form"> <i class="fa fa-phone prefix"></i>
+              <input type="text" id="emplPhoneNo" name="PhoneNo" class="form-control validate" data-ng-model="employer.PhoneNo" ng-minlength="10" ng-maxlength="10" maxlength="10">
+              <label for="form9" data-error="" data-success="">Contact as</label>
+            </div>
+             </div>
+              </div>
+
+            <!--Email validation-->
+             <div class="row">
+             <div class="col-md-6">
+            <div class="md-form"> <i class="fa fa-envelope prefix"></i>
+            
+              <input type="email" id="emplEmail" name="Email" class="form-control validate" data-ng-model="employer.Email" ng-pattern="/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/"  ng-minlength="10" ng-maxlength="30" maxlength="30">
+              <label for="form9" data-error="" data-success="">Email<span>*</span></label>
+            <!--  <span style="color:Red" ng-show="emplEmailForm.Email.$error.required"> Required! </span>
+              <span style="color:Red" ng-show="emplEmailForm.Email.$dirty&&emplEmailForm.Email.$error.pattern">Please Enter Valid Email</span>
+-->
+            
+            </div>
+             </div>
+             <!--Emplyement validation-->
+             <div class="col-md-6 dropdwn">
+               <div class="md-form">
+                  <i class="fa fa-keyboard-o prefix"></i>
+                  <select  name="Employement" data-ng-model="employer.EmployementType">
+                    <option value="" disabled>Employement Type <span>*</span></option>
+                    <option value="Full Time" ng-selected="employer.EmployementType">Full Time</option>
+                    <option value="Part Time">Part Time</option>
+                  </select>
+                </div>
+             <!--<input type="text" id="form9" class="form-control validate" data-ng-model="employer.EmployementType" >
+              <label for="form9" data-error="" data-success="">Employement Type <span>*</span></label>
+            </div>-->
+             </div>
+             </div>
+            
+           
+            <!-- Change this to a button or input when using this as a form -->
+            <div class="row">
+            <div class="col-md-7 pull-right"> 
+              <button type="button" class="btn btn-md btn-primary " style="border-radius: 5px" ng-disabled="!employer.Name || !employer.Technologies || !employer.Experience || !employer.Email || !employer.EmployementType"
+									ng-click="createEployerInfo()">Register</button>
+          <!-- <a href="#" class="btn btn-lg btn-primary " style="border-radius: 5px">Register</a> "-->
+            </div>
+            </div>
+          </fieldset>
+        </form>
+  </div>
+  </div>
+</div>
+<div ng-include="footer" class="footertab"></div>

@@ -1,0 +1,245 @@
+{
+    "COLUMNS": {
+        "CAT_COLUMN": [
+            {
+                "name": "Description",
+                "field": "CategoryDescription"
+            },
+            {
+                "name": "Status",
+                "field": "status"
+               
+            },
+            {
+                "name": "Stock",
+                "field": "IsStock"
+            }
+        ],
+        "PROB_COLUMN": [
+            {
+                "name": "Description",
+                "field": "ProblemDescription"
+            },
+            {
+                "name": "Category",
+                "field": "careplancategory",
+                "sub_field": "CategoryDescription"
+            },
+            {
+                "name": "Status",
+                "field": "status"
+            },
+            {
+                "name": "Stock",
+                "field": "IsStock"
+            }
+        ],
+        "PROB_POP_COLUMN": [
+            {
+                "name": "ProblemDescription",
+                "displayName": "Problem",
+                "enableHiding": false
+            },
+            {
+                "name": "Select",
+                "enableFiltering": false,
+                "maxWidth": 100,
+                "enableSorting": false,
+                "enableColumnMenu": false,
+                "cellTemplate": "<a class='teal-text' ng-click='grid.appScope.editComponent(row.entity)'><i class='fa fa-pencil'></i></a>"
+            }
+        ],
+        "GOAL_COLUMN": [
+            {
+                "name": "Description",
+                "field": "GoalDescription"
+            },
+            {
+                "name": "Category",
+                "field": "careplancategory",
+                "sub_field": "CategoryDescription"
+            },
+            {
+                "name": "Status",
+                "field": "status"
+            },
+            {
+                "name": "Stock",
+                "field": "IsStock"
+            }
+        ],
+        "INTERVENTION_COLUMN": [
+            {
+                "name": "Description",
+                "field": "InterventionDescription"
+            },
+            {
+                "name": "Category",
+                "field": "careplancategory",
+                "sub_field": "CategoryDescription"
+            },
+            {
+                "name": "Status",
+                "field": "status"
+            },
+            {
+                "name": "Stock",
+                "field": "IsStock"
+            }
+        ],
+        "TEMPLATE_COLUMN": [
+            {
+                "name": "Problem",
+                "field": "careplanproblem",
+                "sub_field": "ProblemDescription"
+            },
+             {
+                "name": "Category",
+                "field": "careplanproblem",
+                "sub_field": "careplancategory",
+                "sub_sub_field": "CategoryDescription"
+            },
+            {
+                "name": "Status",
+                "field": "status"
+            },
+            {
+                "name": "Stock",
+                "field": "IsStock"
+            }
+        ],
+        "ENTERPRISE_COLUMN": [
+            {
+                "field": "EnterpriseName",
+                "name": "Enterprise Name"
+            }
+        ],
+        "FACILITY_COLUMN": [
+            {
+                "field": "FacilityCode",
+                "name": "Facility Code"
+            },
+            {
+                "field": "FacilityName",
+                "name": "Facility Name"
+            }
+        ],
+        "RESIDENT_LIST_COLUMNS": [
+            {
+                "name": "Full Name",
+                "field": "personbase",
+                "sub_field": "FullName"
+            },
+            {
+                "name": "Date Of Birth",
+                "field": "personbase",
+                "sub_field": "DateOfBirth"
+            },
+            {
+                "name": "Gender",
+                "field": "personbase",
+                "sub_field": "Gender"
+            },
+            {
+                "name": "Email",
+                "field": "personbase",
+                "sub_field": "EmailAddress"
+            }
+        ],
+        "RESIDENT_CAREPLAN_COLUMNS": [
+            {
+                "name": "careplan Name",
+                "field": "ProblemDescription"
+            },
+            {
+                "name": "Type",
+                "field": "CarePlanTypeID"
+            },
+            {
+                "name": "Category",
+                "field": "CategoryDescription"
+            },
+            {
+                "name": "start Date",
+                "field": "StartDate"
+            },
+            {
+                "name": "Present On Admission",
+                "field": "PresentOnAdmission"
+            }
+        ],
+        "ALLERGY_COLUMN": [
+            {
+                "name": "Allergy",
+                "field": "Allergy"
+            }
+        ],
+        "DAIGNOSIS_COLUMN": [
+            {
+                "name": "ICD Code",
+                "field": "IcdCode"
+            },
+            {
+                "name": "Daignosis Name",
+                "field": "icddiagnosis",
+                "sub_field": "fullName"
+            },
+            {
+                "name": "Onset Date",
+                "field": "OnSetDate"
+            },
+            {
+                "name": "Resolve Date",
+                "field": "ResolveDate"
+            }
+        ],
+        "PROBS_COLUMN": [
+            {
+                "field": "ProblemDescription",
+                "name": "Problems"
+            }
+        ],
+        "REASONS_COLUMN": [
+            {
+                "field": "ReasonDescription",
+                "name": "Reasons"
+            }
+        ],
+        "CONTACT_COLUMN": [
+            {
+                "field": "personbase",
+                "sub_field": "FullName",
+                "name": "FullName"
+            },
+            {
+                "name": "Email",
+                "field": "personbase",
+                "sub_field": "EmailAddress"
+            },
+            {
+                "field": "relation",
+                "sub_field": "Description",
+                "name": "Relation"
+            }
+        ],
+        "GOALS_COLUMN": [
+            {
+                "field": "GoalDescription",
+                "name": "Goals"
+            }
+        ],
+        "INTERVENTIONS_COLUMN": [
+            {
+                "field": "InterventionDescription",
+                "name": "InterVentions"
+            }
+        ],
+        "TEMPLATE_SEARCH_COLUMN": [
+            {
+                "field": "careplanproblem.ProblemDescription",
+                "name": "Template"
+                
+            }
+        ]
+    }
+}

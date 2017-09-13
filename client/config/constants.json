@@ -1,0 +1,11 @@
+{
+    "API": {
+      
+        "POST_EMPLOYER_INFO": "/api/employer/info"
+  },
+    "NAVIGATION": {
+        "ADMI GROUP": "/admin-home",
+        "RESIDENT GROUP": "/resident-home",
+        "HOSPITAL GROUP": "/doctor-home"
+    }
+}
